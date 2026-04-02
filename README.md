@@ -549,7 +549,7 @@ SERPER_API_KEY=your_key_here
 For example:
 
 ```bash
-MODEL=gemini/gemini-1.5-flash
+MODEL=gemini/gemini-2.5-flash
 GEMINI_API_KEY=AIzaSyAB-RN6U***********2tRcQGJcGzqVNY9A
 SERPER_API_KEY=ca***************775908cdc819cfe80598458
 ```
